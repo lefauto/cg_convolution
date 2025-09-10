@@ -2,7 +2,7 @@
 
 ## Sobre
 
-- Script que roda a operação matemática convolução e 
+- Script que roda a operação matemática convolução, assim aplicando filtros em imagens
 
 ## Como rodar o projeto
 
